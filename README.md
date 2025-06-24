@@ -9,31 +9,39 @@
 
 ### 🔧 Tech Stack
 
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+<div align="center">
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) 
-![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js)
+#### 🖥️ Languages  
+<a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" /></a>
+<a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 
-**Backend & Databases:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
-![Express](https://img.shields.io/badge/-Express.js-000000?logo=express)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+<br/>
 
-**DevOps & Cloud:**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws) 
-![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform) 
-![CI/CD](https://img.shields.io/badge/-CI/CD-292929?logo=githubactions)
+#### 🎨 Frontend  
+<a><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" /></a>
+<a><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" /></a>
 
----
+<br/>
+
+#### ⚙️ Backend & Databases  
+<a><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+
+<br/>
+
+#### ☁️ DevOps & Cloud  
+<a><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/CI/CD-292929?style=for-the-badge&logo=githubactions&logoColor=white" /></a>
+
+</div>
 
 ### 🧩 Projects
 
