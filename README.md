@@ -1,20 +1,38 @@
-<h1 align="center">Hi 👋, I'm Vaibhav kaushik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi, I'm Vaibhav Kaushik 👋
 
-- 🔭 I’m currently working on **Paralax website**
+🚀 Web Developer | Full Stack Engineer | Cloud Enthusiast  
+🎓 B.Tech, Bennett University (2022–2026)  
+🌍 Passionate about building scalable web apps and solving real-world problems.
 
-- 🌱 I’m currently learning **React , Next JS and Node JS**
+## 🔧 Tech Stack
+- **Languages:** JavaScript (ES6+), Python
+- **Frontend:** React.js, Next.js, Tailwind CSS, TypeScript, Three.js
+- **Backend:** Node.js, Express.js, MongoDB, MySQL
+- **DevOps & Cloud:** AWS, Google Cloud, Docker, Terraform, CI/CD Pipelines
 
-- 💬 Ask me about **gsap, paralax, css and js**
+## 🧩 Projects
+### [🏠 Home Hunts](https://github.com/vibhu2208/home-hunts)
+A real-time plot booking platform using Supabase, Resend, and React.
 
-- 📫 How to reach me **vaibhavsingh5373@gmail.com**
+### [👖 Denim Delight](https://github.com/vibhu2208/denim-delight-hub)
+A scalable e-commerce site with user auth and payment integration.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vaibhav kaushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav kaushik" height="30" width="40" /></a>
-<a href="https://instagram.com/vivu_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivu_22" height="30" width="40" /></a>
-<a href="https://hashnode.com/@vibhu22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vibhu22" height="30" width="40" /></a>
-</p>
+### [💼 TechThrive System](https://github.com/vibhu2208/thecthtrive)
+A full-stack company portfolio platform with advanced UI/UX and animations.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### [🛠️ IT Solutions](https://github.com/vibhu2208/It-Solutions)
+Fully responsive, animated landing page for IT service inquiries.
+
+## 📰 Publications
+- **IEEE Research**: [Detecting Spam Accounts on Instagram](https://ieeexplore.ieee.org/document/10593608)
+- Precision: 0.96 | Recall: 0.95 | Published @ IC3SE 2024
+
+## 🏆 Certifications
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/13529703-bce2-4593-8d4e-c046e60eda69/public_url)
+
+## 📫 Let's Connect!
+- 📧 [vaibhavsingh5373@gmail.com](mailto:vaibhavsingh5373@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vaibhav-kaushik-83a3a1245/)
+- 💻 [Portfolio](https://techthrivesystem.com/)
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
